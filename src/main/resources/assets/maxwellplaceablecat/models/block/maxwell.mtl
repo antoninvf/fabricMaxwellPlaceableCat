@@ -1,0 +1,5 @@
+newmtl maxwell
+texture maxwellplaceablecat:block/maxwell
+
+newmtl whiskers
+texture maxwellplaceablecat:block/whiskers
