@@ -1,4 +1,4 @@
-# Dingus Cat Mod
+# Maxwell the placeable cat
 
 My first fabric mod that adds the Dingus/Maxwell Cat to Minecraft.
 
