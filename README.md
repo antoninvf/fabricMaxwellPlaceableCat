@@ -6,6 +6,11 @@ I made this cause I was bored and didn't know what to make :D
 
 I've heard somewhere that Myron breaks with a some mods, so if this mod breaks with others mods, sucks to suck :tf:
 
+## Requires
+
+* [Fabric](https://fabricmc.net/use/installer/)
+* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
 ## Credits
 
 * bean(alwayshasbean) - [Dingus/Maxwell Cat model](https://sketchfab.com/3d-models/dingus-the-cat-2ca7f3c1957847d6a145fc35de9046b0)
