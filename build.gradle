@@ -17,6 +17,7 @@ repositories {
     // See https://docs.gradle.org/current/userguide/declaring_repositories.html
     // for more information about repositories.
     flatDir { dirs "libs" }
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
@@ -26,8 +27,8 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
     // Myron
-    modImplementation name: "myron-1.6.5+22w14a"
-    include name: "myron-1.6.5+22w14a"
+    modImplementation "com.github.frqnny:myron:1.6.5+22w14a"
+    include "com.github.frqnny:myron:1.6.5+22w14a"
 
     // Fabric API. This is technically optional, but you probably want it anyway.
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
