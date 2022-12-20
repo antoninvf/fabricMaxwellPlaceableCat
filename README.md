@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Dingus Cat Mod
 
-## Setup
+My first fabric mod that adds the Dingus/Maxwell Cat to Minecraft.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+I made this cause I was bored and didn't know what to make :D
 
-## License
+I've heard somewhere that Myron breaks with a some mods, so if this mod breaks with others mods, sucks to suck :tf:
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Credits
+
+* bean(alwayshasbean) - [Dingus/Maxwell Cat model](https://sketchfab.com/3d-models/dingus-the-cat-2ca7f3c1957847d6a145fc35de9046b0)
+* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* [Fqnny's Myron](https://github.com/frqnny/myron) / [Myron](https://github.com/Haven-King/myron)
