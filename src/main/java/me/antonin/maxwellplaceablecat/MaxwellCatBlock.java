@@ -44,7 +44,7 @@ public class MaxwellCatBlock extends FallingBlock {
         return new DamageSource("falling_maxwell_cat") {
             @Override
             public Text getDeathMessage(LivingEntity livingEntity) {
-                return Text.translatable("death.maxwellplaceablecat.falling_dingus_cat", livingEntity.getDisplayName());
+                return Text.translatable("death.maxwellplaceablecat.falling_maxwell_cat", livingEntity.getDisplayName());
             }
         }.setFromFalling();
     }
