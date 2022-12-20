@@ -1,8 +1,8 @@
 {
   "variants": {
-    "facing=north": { "model": "maxwellplaceablecat:block/dingus", "y": 180 },
-    "facing=south": { "model": "maxwellplaceablecat:block/dingus", "y": 0 },
-    "facing=west": { "model": "maxwellplaceablecat:block/dingus", "y": 90 },
-    "facing=east": { "model": "maxwellplaceablecat:block/dingus", "y": 270 }
+    "facing=north": { "model": "maxwellplaceablecat:block/maxwell", "y": 180 },
+    "facing=south": { "model": "maxwellplaceablecat:block/maxwell", "y": 0 },
+    "facing=west": { "model": "maxwellplaceablecat:block/maxwell", "y": 90 },
+    "facing=east": { "model": "maxwellplaceablecat:block/maxwell", "y": 270 }
   }
 }

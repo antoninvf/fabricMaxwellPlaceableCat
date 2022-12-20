@@ -1,4 +1,4 @@
 {
   "parent": "minecraft:block/block",
-  "model": "maxwellplaceablecat:block/dingus"
+  "model": "maxwellplaceablecat:block/maxwell"
 }
