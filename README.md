@@ -6,6 +6,9 @@ I made this cause I was bored and didn't know what to make :D
 
 I've heard somewhere that Myron breaks with some mods, so if this mod breaks with others mods, sucks to suck :trollface:
 
+* [Curseforge page](https://www.curseforge.com/minecraft/mc-mods/maxwell-the-placeable-cat)
+* [Modrinth page](https://modrinth.com/mod/maxwell-the-placeable-cat)
+
 ## Requires
 
 * [Fabric](https://fabricmc.net/use/installer/)
@@ -17,3 +20,5 @@ I've heard somewhere that Myron breaks with some mods, so if this mod breaks wit
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Frqnny's Myron](https://github.com/frqnny/myron) / [Myron](https://github.com/Haven-King/myron)
 * [Maxwell the carryable cat](https://steamcommunity.com/sharedfiles/filedetails/?id=2878054450) - Where the idea came from
+
+**Also this is a FABRIC mod** I might make a forge version in the future.
