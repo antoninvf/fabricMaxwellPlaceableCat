@@ -1,5 +1,7 @@
 # Maxwell the placeable cat
 
+**[MOVING TO FORGE](https://github.com/antoninvf/PlaceableMaxwellForge)**
+
 My first fabric mod that adds the Maxwell cat to Minecraft.
 
 I made this cause I was bored and didn't know what to make :D
